@@ -10,3 +10,4 @@ The key futures of nano development kit are:
 - Debug&programming header.
 - GPIO header.
 - Power header.
+- CR2032 battery power.
