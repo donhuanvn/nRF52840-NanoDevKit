@@ -1,1 +1,11 @@
 https://youtu.be/3GN5e-fICw8
+
+1/Download & Install Altium (prefer to altium 17.0.7)
+
+2/Download Altium project from Github that includes Library folder. (test_open_al_project)
+
+3/Open PCB Project file: extension is .PrjPcb
+
+4/Add Library
+
+5/Open sch & pcb file to get any thing you need.
